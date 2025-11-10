@@ -1,0 +1,776 @@
+[
+  {
+    "title": "Flight Cancellations and Delays Worsen as Government Shutdown Drags On",
+    "url": "https://www.usnews.com/news/us/articles/2025-11-10/flight-cancellations-and-delays-worsen-as-government-shutdown-drags-on",
+    "description": "Airports across the U.S. are experiencing significant disruptions due to the ongoing government shutdown",
+    "date": "Nov. 10, 2025"
+  },
+  {
+    "title": "World Shares Advance as Tech Shares Rebound and the Senate Takes Steps to End the Shutdown",
+    "url": "https://www.usnews.com/news/us/articles/2025-11-10/asian-shares-advance-as-tech-shares-rebound-from-ai-jitters",
+    "description": "Shares are higher in Europe and Asia, lifted by technology stocks that have rebounded from last week's losses",
+    "date": "Nov. 10, 2025"
+  },
+  {
+    "title": "China Rolls Out Its Version of the H-1B Visa to Attract Foreign Tech Workers",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-10/china-creates-a-new-visa-competing-with-the-us-in-wooing-global-tech-talent",
+    "description": "China has a new visa scheme that is creating job opportunities for foreign professionals, part of its effort to attract global talent and gain an edge in global technology",
+    "date": "Nov. 10, 2025"
+  },
+  {
+    "title": "US Airlines' Daily Cancellations Exceed 2,700 as Shutdown Impact Extends",
+    "url": "https://www.usnews.com/news/politics/articles/2025-11-09/thanksgiving-air-traffic-could-slow-to-a-trickle-if-shutdown-persists-transport-secretary-says",
+    "description": "U.S. airlines canceled more than 2,700 flights Sunday mostly because of the government shutdown and the Federal Aviation Administration’s order to reduce air traffic",
+    "date": "Nov. 9, 2025"
+  },
+  {
+    "title": "EU, Latin America and Caribbean Nations Hold Summit Overshadowed by US Military Operation",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-09/summit-of-eu-latin-america-and-caribbean-nations-aims-to-strengthen-ties-amid-us-military-operation",
+    "description": "European, Latin American, and Caribbean nations have started a two-day summit in Colombia to strengthen ties",
+    "date": "Nov. 9, 2025"
+  },
+  {
+    "title": "Landmark Paris Agreement Set a Path to Slow Warming. the World Hasn't Stayed on It",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-09/landmark-paris-agreement-set-a-path-to-slow-warming-the-world-hasnt-stayed-on-it",
+    "description": "The world has seen faster climate change than expected since the Paris Agreement a decade ago",
+    "date": "Nov. 9, 2025"
+  },
+  {
+    "title": "Flight Cuts From Government Shutdown Strain a Supply Chain That's Already Stretched Thin",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-09/flight-cuts-from-government-shutdown-strain-a-supply-chain-thats-already-stretched-thin",
+    "description": "The Federal Aviation Administration has announced a 10% reduction in flight capacity across 40 major U.S. airports",
+    "date": "Nov. 9, 2025"
+  },
+  {
+    "title": "No People Thought Unaccounted for as UPS Cargo Plane Crash Toll Stands at 14, Louisville Mayor Says",
+    "url": "https://www.usnews.com/news/best-states/kentucky/articles/2025-11-08/no-people-thought-unaccounted-for-as-ups-cargo-plane-crash-toll-stands-at-14-louisville-mayor-says",
+    "description": "The mayor of Louisville, Kentucky, says the number of victims of a UPS cargo plane crash stands at 14 with nobody believed to be still unaccounted for among the missing",
+    "date": "Nov. 8, 2025"
+  },
+  {
+    "title": "Infant Botulism in 10 US States Linked to Formula Being Recalled",
+    "url": "https://www.usnews.com/news/best-states/oregon/articles/2025-11-08/infant-botulism-in-10-us-states-linked-to-formula-being-recalled",
+    "description": "Federal and state health officials are investigating 13 cases in 10 U.S. states of infant botulism linked to baby formula that is being recalled",
+    "date": "Nov. 8, 2025"
+  },
+  {
+    "title": "Pfizer Clinches Deal for Obesity Drug Developer Metsea After a Bidding War With Novo Nordisk",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-08/pfizer-clinches-deal-for-obesity-drug-developer-metsea-after-a-bidding-war-with-novo-nordisk",
+    "description": "Pfizer has signed a deal to purchase Metsera Inc., an obesity drugmaker in the development stage, after winning a bidding war against Novo Nordisk",
+    "date": "Nov. 8, 2025"
+  },
+  {
+    "title": "What to Know if Your Travel Plans Are Impacted by the FAA's Flight Cancellations",
+    "url": "https://www.usnews.com/news/best-states/tennessee/articles/2025-11-08/what-to-know-if-your-travel-plans-are-impacted-by-the-faas-flight-cancellations",
+    "description": "Travelers with upcoming travel plans can expect to see fewer flights to many major U.S. cities",
+    "date": "Nov. 8, 2025"
+  },
+  {
+    "title": "Washington's Struggling Economy Takes Another Hit From the Government Shutdown",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-08/washingtons-struggling-economy-takes-another-economic-hit-from-the-government-shutdown",
+    "description": "Washington's local economy has taken blows from a series of actions by the Trump administration, from the layoffs of federal workers to the ongoing law enforcement intervention with the National Guard",
+    "date": "Nov. 8, 2025"
+  },
+  {
+    "title": "Bulgaria Moves to Prevent Shutdown of Its Only Oil Refinery Ahead of US Sanctions",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-08/bulgaria-moves-to-prevent-shutdown-of-its-only-oil-refinery-ahead-of-us-sanctions",
+    "description": "Bulgaria is racing to prevent the shutdown of its only oil refinery before U.S. sanctions on its Russian owner take effect later this month",
+    "date": "Nov. 8, 2025"
+  },
+  {
+    "title": "Russian Strikes Hit an Apartment Building and Energy Sites in Ukraine, Killing 4",
+    "url": "https://www.usnews.com/news/world/articles/2025-11-08/a-russian-drone-strike-at-a-tower-block-in-eastern-ukraine-kills-a-woman-and-injures-11-people",
+    "description": "Ukrainian authorities say that a Russian drone has hit an apartment building in eastern Ukraine and three people have been killed and 12 others wounded",
+    "date": "Nov. 8, 2025"
+  },
+  {
+    "title": "FAA Grounds MD-11 Planes Following Deadly Kentucky Crash",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-08/ups-grounding-md-11-planes-following-deadly-kentucky-crash",
+    "description": "U.S. aviation officials are ordering McDonnell Douglas MD-11 planes not be flown until they can be inspected",
+    "date": "Nov. 8, 2025"
+  },
+  {
+    "title": "Voters’ Anger at High Electricity Bills and Data Centers Looms Over 2026 Midterms",
+    "url": "https://www.usnews.com/news/us/articles/2025-11-08/voters-anger-over-high-electricity-bills-and-data-centers-loom-over-2026-midterms",
+    "description": "Voter anger over rising electricity costs is shaping next year's midterm elections",
+    "date": "Nov. 8, 2025"
+  },
+  {
+    "title": "US Airlines Cancel More Than 2,500 Weekend Flights Largely Due to Government Shutdown",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-08/what-to-know-about-the-flight-cancellations-at-us-airports-caused-by-the-government-shutdown",
+    "description": "U.S. airlines have canceled more than 2,500 weekend flights mostly because of the government shutdown and the Federal Aviation Administration’s order to reduce air traffic",
+    "date": "Nov. 8, 2025"
+  },
+  {
+    "title": "Weekend Session Gets off to Slow Start in Senate as Lawmakers Look for a Way Out of Shutdown",
+    "url": "https://www.usnews.com/news/politics/articles/2025-11-08/senators-to-work-through-the-weekend-on-shutdown-as-republicans-and-democrats-are-still-far-apart",
+    "description": "The Senate’s first weekend session since the shutdown began has yielded few signs of progress",
+    "date": "Nov. 8, 2025"
+  },
+  {
+    "title": "Hegseth Says He Wants the Pentagon to Prioritize Speed Over Cost When Buying Weapons",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-07/hegseth-says-he-wants-the-pentagon-to-prioritize-speed-over-cost-when-buying-weapons",
+    "description": "Defense Secretary Pete Hegseth says the Pentagon is revamping how the military buys weapons, shifting the focus away from producing advanced and complex technology and toward products that can be made and delivered quickly",
+    "date": "Nov. 7, 2025"
+  },
+  {
+    "title": "Trump Accuses Foreign-Owned Meat Packers of Inflating US Beef Prices and Calls for Investigation",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-07/trump-accuses-foreign-owned-meat-packers-of-inflating-us-beef-prices-and-calls-for-investigation",
+    "description": "President Donald Trump is accusing foreign-owned meat packers of driving up the price of beef in the U.S. and is asking the Department of Justice to open an investigation",
+    "date": "Nov. 7, 2025"
+  },
+  {
+    "title": "The Shutdown Has Disrupted Air Travel. Will That Drive a Surge in Car Rentals and Train Bookings?",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-07/the-shutdown-has-disrupted-air-travel-will-that-drive-a-surge-in-car-rentals-and-train-bookings",
+    "description": "The U.S. government shutdown has rattled air travel — most recently with an unprecedented effort from the Federal Aviation Administration to cut flights by 10% at airports nationwide",
+    "date": "Nov. 7, 2025"
+  },
+  {
+    "title": "Consumer Sentiment Tumbles Close to Record Lows in Latest U Michigan Survey",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-07/consumer-sentiment-tumbles-close-to-record-lows-in-latest-u-michigan-survey",
+    "description": "Consumer sentiment dropped to a three-year low in November, a month into the government shutdown, led by pessimism in both personal finances and anticipated business conditions",
+    "date": "Nov. 7, 2025"
+  },
+  {
+    "title": "Trump Administration Moves to Loosen Restrictions It Once Supported on a Harmful Pollutant",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-07/trump-administration-moves-to-loosen-restrictions-it-once-supported-on-a-harmful-pollutant",
+    "description": "The Trump administration is loosening a federal rule that requires grocery stores, air-conditioning companies and others to reduce powerful greenhouse gases that contribute to global warming",
+    "date": "Nov. 7, 2025"
+  },
+  {
+    "title": "Trading Firm Gunvor, Accused by US of Being 'Kremlin's Puppet,’ Drops Plan to Buy Lukoil Assets",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-07/trading-firm-gunvor-accused-by-us-of-being-kremlins-puppet-drops-plan-to-buy-lukoil-assets",
+    "description": "Gunvor, a major international commodities trader, has rejected U_S_ government claims that it acts as \"the Kremlin's puppet.\"",
+    "date": "Nov. 7, 2025"
+  },
+  {
+    "title": "Honda's Profit Slips as President Trump's Tariffs Take Their Toll on Japanese Automakers",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-07/hondas-profit-slips-as-president-trumps-tariffs-take-their-toll-on-japanese-automakers",
+    "description": "Honda has reported a 37% drop in profit for the first fiscal half through September",
+    "date": "Nov. 7, 2025"
+  },
+  {
+    "title": "Stocks Wind up Mixed on Wall Street After Spending Most of the Day in the Red",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-07/asian-shares-retreat-after-falling-tech-stocks-pull-wall-street-lower",
+    "description": "Stock indexes wound up mixed on Wall Street but still clocked their first weekly loss in the last four",
+    "date": "Nov. 7, 2025"
+  },
+  {
+    "title": "China's Exports Fall 1.1% in October, Hit by a 25% Drop in Shipments to the US",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-07/chinas-exports-fall-1-1-in-october-hit-by-a-25-drop-in-shipments-to-the-us",
+    "description": "China has reported that its exports contracted in October, hit by a 25% drop in shipments to the United States",
+    "date": "Nov. 7, 2025"
+  },
+  {
+    "title": "US Airlines Cancel 1,000 Flights While Complying With Shutdown Order",
+    "url": "https://www.usnews.com/news/best-states/washington-dc/articles/2025-11-07/the-faas-order-to-cut-flights-nationwide-due-to-the-government-shutdown-is-set-to-take-effect",
+    "description": "Anxious travelers across the U.S. are feeling a bit of relief as airlines have mostly stayed on schedule while gradually cutting flights because of the government shutdown",
+    "date": "Nov. 7, 2025"
+  },
+  {
+    "title": "Republicans Swat Down Democratic Offer to End Shutdown as Impasse Continues Into 38th Day",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-07/democrats-consider-prolonging-the-shutdown-as-republicans-prepare-new-bills-without-health-care-fix",
+    "description": "Republicans are swatting down an offer from Democrats to end the government shutdown",
+    "date": "Nov. 7, 2025"
+  },
+  {
+    "title": "Trump Is Ramping up a New Effort to Convince a Skeptical Public He Can Fix Affordability Worries",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-07/trump-is-ramping-up-a-new-effort-to-convince-a-skeptical-public-he-can-fix-affordability-worries",
+    "description": "Expect to hear President Donald Trump talk a lot about affordability in coming months",
+    "date": "Nov. 7, 2025"
+  },
+  {
+    "title": "OpenAI Faces 7 Lawsuits Claiming ChatGPT Drove People to Suicide, Delusions",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-06/openai-faces-7-lawsuits-claiming-chatgpt-drove-people-to-suicide-delusions",
+    "description": "OpenAI is facing seven lawsuits claiming ChatGPT drove people to suicide and harmful delusions even when they had no prior mental health issues",
+    "date": "Nov. 6, 2025"
+  },
+  {
+    "title": "Shaggy Recounts His Relief Mission to Jamaica After Hurricane Melissa and Shares How You Can Help",
+    "url": "https://www.usnews.com/news/best-states/new-york/articles/2025-11-06/shaggy-recounts-his-relief-mission-to-jamaica-after-hurricane-melissa-and-shares-how-you-can-help",
+    "description": "Shaggy, the Grammy-winning reggae artist, has stepped up to help Jamaica following Hurricane Melissa",
+    "date": "Nov. 6, 2025"
+  },
+  {
+    "title": "'No Hire' Job Market Leaves Unemployed in Limbo as Threats to Economy Multiply",
+    "url": "https://www.usnews.com/news/us/articles/2025-11-07/no-hire-job-market-leaves-unemployed-in-limbo-as-threats-to-economy-multiply",
+    "description": "The unemployment rate is low and the economy is still growing, but those out of work face the slowest pace of hiring in more than a decade",
+    "date": "Nov. 6, 2025"
+  },
+  {
+    "title": "The Congressional Budget Office Was Hacked. It Says It Has Implemented New Security Measures",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-06/the-congressional-budget-office-was-hacked-it-says-it-has-implemented-new-security-measures",
+    "description": "The Congressional Budget Office confirmed Thursday that it had been hacked",
+    "date": "Nov. 6, 2025"
+  },
+  {
+    "title": "Musk Could Become History's First Trillionaire as Tesla Shareholders Approve Giant Pay Package",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-06/musk-could-become-historys-first-trillionaire-as-tesla-shareholders-approve-giant-pay-package",
+    "description": "The world’s richest man was just handed a chance to become history’s first trillionaire",
+    "date": "Nov. 6, 2025"
+  },
+  {
+    "title": "Peloton Recalls Nearly 878,000 Exercise Bikes After Several Seat Posts Break",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-06/peloton-recalls-nearly-878-000-exercise-bikes-after-several-seat-posts-break",
+    "description": "Peloton is recalling nearly 878,000 exercise bikes in the U.S. and Canada — due to seat posts that can break during use and pose fall hazards",
+    "date": "Nov. 6, 2025"
+  },
+  {
+    "title": "The FAA Is Slashing Flights Because of the Shutdown. Here's What Travelers Can Expect",
+    "url": "https://www.usnews.com/news/best-states/tennessee/articles/2025-11-06/the-faa-is-slashing-flights-because-of-the-shutdown-heres-what-travelers-can-expect",
+    "description": "Travelers can expect to see fewer flights to many major U.S. cities starting Friday morning",
+    "date": "Nov. 6, 2025"
+  },
+  {
+    "title": "Travelers Brace for Chaos as US Government Shutdown Threatens Holiday Flights",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-06/travelers-brace-for-chaos-as-us-government-shutdown-threatens-holiday-flights",
+    "description": "Travelers across the U.S. are facing potential chaos as a government shutdown threatens to disrupt flights nationwide",
+    "date": "Nov. 6, 2025"
+  },
+  {
+    "title": "Trump Taps DEI Critic to Lead Workplace Civil Rights Agency",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-06/trump-taps-dei-critic-to-lead-workplace-civil-rights-agency",
+    "description": "President Donald Trump has appointed Andrea Lucas as chair of the nation's top workplace civil rights agency",
+    "date": "Nov. 6, 2025"
+  },
+  {
+    "title": "Trump Unveils Deal to Expand Coverage and Lower Costs on Obesity Drugs",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-06/trump-unveils-deal-to-expand-coverage-and-lower-costs-on-obesity-drugs",
+    "description": "President Donald Trump has unveiled a deal with drugmakers Eli Lilly and Novo Nordisk to expand coverage and reduce prices for their popular obesity treatments Zepbound and Wegovy",
+    "date": "Nov. 6, 2025"
+  },
+  {
+    "title": "Average US Long-Term Mortgage Rate Ticks up to 6.22% After Four Straight Weekly Declines",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-06/average-us-long-term-mortgage-rate-ticks-up-to-6-22-after-four-straight-weekly-declines",
+    "description": "The average rate on a 30-year U.S. mortgage ticked up for the first time in five weeks after falling to its lowest level in more than a year last week",
+    "date": "Nov. 6, 2025"
+  },
+  {
+    "title": "National Retail Federation Predicts First $1 Trillion Holiday Shopping Season",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-06/national-retail-federation-holiday-sales-to-increase-3-7-to-4-2-despite-concerns-over-inflation",
+    "description": "American shoppers are expected to spend more during this holiday shopping season than last year despite economic uncertainty and rising prices",
+    "date": "Nov. 6, 2025"
+  },
+  {
+    "title": "These Are the Airports That Will Reduce Flights During the Government Shutdown",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-06/these-are-the-airports-that-will-reduce-flights-during-the-government-shutdown",
+    "description": "The Federal Aviation Administration is forcing airlines to cut 10% of their flights at 40 of the busiest airports across the nation to reduce pressure on air traffic controllers during the ongoing government shutdown and ensure that flying remains safe",
+    "date": "Nov. 6, 2025"
+  },
+  {
+    "title": "Boeing Won't Face Criminal Charge Over 737 Max Crashes That Killed Hundreds of People",
+    "url": "https://www.usnews.com/news/us/articles/2025-11-06/criminal-case-against-boeing-over-deadly-737-max-plane-crashes-is-dismissed-by-a-us-judge",
+    "description": "A federal judge in Texas has dismissed a criminal conspiracy charge against Boeing related to two 737 Max crashes that killed 346 people",
+    "date": "Nov. 6, 2025"
+  },
+  {
+    "title": "Zuckerberg, Chan Shift Bulk of Philanthropy to Science, Focusing on AI and Biology to Curb Disease",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-06/zuckerberg-chan-shift-bulk-of-philanthropy-to-science-focusing-on-ai-and-biology-to-curb-disease",
+    "description": "For the past decade, Dr. Priscilla Chan and her husband Mark Zuckerberg have focused part of their philanthropy on a lofty goal — “to cure, prevent or manage all disease” — if not in their lifetime, then in their children’s",
+    "date": "Nov. 6, 2025"
+  },
+  {
+    "title": "Trump Hosts Central Asian Leaders as US Seeks to Get Around China on Rare Earth Metals",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-06/trump-is-hosting-central-asian-leaders-as-us-seeks-to-get-around-china-on-rare-earth-metals",
+    "description": "President Donald Trump has hosted leaders from five Central Asian countries at the White House",
+    "date": "Nov. 6, 2025"
+  },
+  {
+    "title": "Ukraine Says It Has Hit a Major Russian Oil Refinery With Long-Range Drones",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-06/ukraine-says-it-has-hit-a-major-russian-oil-refinery-with-long-range-drones",
+    "description": "Ukrainian drones have struck a major oil refinery in Russia’s Volgograd region for the second time in nearly three months, according to Ukraine’s general staff",
+    "date": "Nov. 6, 2025"
+  },
+  {
+    "title": "Vigil Held in Kentucky to Share Sorrow Over UPS Plane Crash That Killed at Least 13",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-06/officials-scour-charred-site-of-kentucky-ups-plane-crash-for-victims-and-answers",
+    "description": "A candlelight vigil has been held in Louisville, Kentucky, to honor the victims of a UPS plane crash and anyone else affected by the tragedy",
+    "date": "Nov. 6, 2025"
+  },
+  {
+    "title": "Wall Street Loses Ground Under the Weight of Falling Technology Stocks",
+    "url": "https://www.usnews.com/news/us/articles/2025-11-06/asian-shares-advance-after-solid-earnings-and-economic-reports-updates-lift-wall-street",
+    "description": "Wall Street lost ground as influential technology stocks fell and once again steered the broader market",
+    "date": "Nov. 6, 2025"
+  },
+  {
+    "title": "US Flight Cancellations Accelerate as Airlines Comply With Government Shutdown Order",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-06/faa-readies-to-list-airports-getting-reduced-flights-during-the-government-shutdown",
+    "description": "Flight cancellations are accelerating as U.S. airlines comply with a government order to cut flights because of the shutdown",
+    "date": "Nov. 6, 2025"
+  },
+  {
+    "title": "One Tech Tip: Modern Cars Are Spying on You. Here's What You Can Do About It",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-06/one-tech-tip-modern-cars-are-spying-on-you-heres-what-you-can-do-about-it",
+    "description": "Modern cars are collecting more data than ever, raising privacy concerns",
+    "date": "Nov. 5, 2025"
+  },
+  {
+    "title": "IRS Direct File Won't Be Available Next Year. Here's What That Means for Taxpayers",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-05/irs-direct-file-wont-be-available-next-year-heres-what-that-means-for-taxpayers",
+    "description": "The Trump administration has decided not to offer the IRS' electronic tax filing system for free next year, and its future is unclear",
+    "date": "Nov. 5, 2025"
+  },
+  {
+    "title": "Trump Has Other Tariff Options if the Supreme Court Strikes Down His Worldwide Import Taxes",
+    "url": "https://www.usnews.com/news/us/articles/2025-11-06/trump-has-other-tariff-options-if-the-supreme-court-strikes-down-his-worldwide-import-taxes",
+    "description": "President Donald Trump has warned that the Supreme Court will leave the United States “defenseless’’ and possibly “reduced to almost Third World status’’ if it strikes down the tariffs he imposed this year on nearly every country on earth",
+    "date": "Nov. 5, 2025"
+  },
+  {
+    "title": "Key Executive Convicted of Defrauding JPMorgan Chase Is Sentenced to Over 5 Years in Prison",
+    "url": "https://www.usnews.com/news/us/articles/2025-11-05/key-executive-convicted-of-defrauding-jpmorgan-chase-is-sentenced-to-over-5-years-in-prison",
+    "description": "A top executive at a startup company that helped college students apply for financial aid has been sentenced to over five years in prison for cheating JPMorgan Chase in a $175 million buyout four years ago",
+    "date": "Nov. 5, 2025"
+  },
+  {
+    "title": "DoorDash Reports More Orders Than Expected in Third Quarter, but Warns of Higher Expenses Ahead",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-05/doordash-reports-more-orders-than-expected-in-third-quarter-but-warns-of-higher-expenses-ahead",
+    "description": "DoorDash reported higher-than-expected orders and revenue in the third quarter but warned investors that it will be spending significantly more on product development next year",
+    "date": "Nov. 5, 2025"
+  },
+  {
+    "title": "FAA Reducing Air Traffic by 10% Across 40 'High-Volume' Markets During Government Shutdown",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-05/faa-reducing-air-traffic-by-10-across-40-high-volume-markets",
+    "description": "The Federal Aviation Administration says it plans to reduce air traffic by 10% across 40 “high-volume” markets beginning Friday morning to maintain safety during the ongoing government shutdown",
+    "date": "Nov. 5, 2025"
+  },
+  {
+    "title": "In Election 2025, the Economy's Still the Main Thing, According to the AP Voter Poll",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-05/in-election-2025-the-economys-still-the-main-thing-according-to-the-ap-voter-poll",
+    "description": "Economic worries were the dominant concern as voters cast ballots for Tuesday’s elections, according to preliminary findings from the AP Voter Poll",
+    "date": "Nov. 5, 2025"
+  },
+  {
+    "title": "Motion Picture Association Tells Meta to Stop Using PG-13 to Refer to Instagram Teen Account Content",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-05/motion-picture-association-tells-meta-to-stop-using-pg-13-to-refer-to-instagram-teen-account-content",
+    "description": "The Motion Picture Association is asking Meta to stop referring to content shown to teen accounts on Instagram as guided by PG-13 ratings, saying it is misleading",
+    "date": "Nov. 5, 2025"
+  },
+  {
+    "title": "FDA Warns Websites Selling Unapproved Botox for Cosmetic Purposes",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-05/fda-warns-websites-selling-unapproved-botox-for-cosmetic-purposes",
+    "description": "U.S. health regulators are warning about unapproved versions of Botox and similar anti-wrinkle injections",
+    "date": "Nov. 5, 2025"
+  },
+  {
+    "title": "Shipping Delays Expected After UPS Cargo Plane Crash",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-05/shipping-delays-expected-after-ups-cargo-plane-crash",
+    "description": "The UPS cargo plane crash on Tuesday at the company’s global aviation hub in Kentucky, which killed at least 12, will temporarily disrupt the supply chain and result in some shipping delays",
+    "date": "Nov. 5, 2025"
+  },
+  {
+    "title": "Lawsuit Says First Brands Founder Splurged on Exotic Cars and Celebrity Chefs Before Bankruptcy",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-05/lawsuit-says-first-brands-founder-splurged-on-exotic-cars-and-celebrity-chefs-before-bankruptcy",
+    "description": "The management team that took over First brands as well as creditors of the once fast-growing Cleveland auto parts supplier have sued its founder and CEO, saying that they now know where at least some of the more than $2 billion in missing funds went before the company sought bankruptcy protection in September",
+    "date": "Nov. 5, 2025"
+  },
+  {
+    "title": "Starbucks' Union Workers Plan Strike Next Week Unless Company Agrees to a Contract",
+    "url": "https://www.usnews.com/news/best-states/washington/articles/2025-11-05/starbucks-union-workers-plan-strike-next-week-unless-company-agrees-to-a-contract",
+    "description": "Starbucks’ union members have voted to strike at U.S. stores next week unless the company finalizes a contract agreement",
+    "date": "Nov. 5, 2025"
+  },
+  {
+    "title": "First Civil Trial Over 737 Max Crash in Ethiopia Begins, as Boeing Settles Three More Lawsuits",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-05/first-civil-trial-over-737-max-crash-in-ethiopia-begins-even-as-boeing-settles-three-more-lawsuits",
+    "description": "The first civil trial over the Boeing 737 Max crash in Ethiopia is underway",
+    "date": "Nov. 5, 2025"
+  },
+  {
+    "title": "Musk the Trillionaire? Debate Over His Tesla Pay Package Rages",
+    "url": "https://www.usnews.com/news/best-states/new-york/articles/2025-11-05/musk-the-trillionaire-debate-over-his-tesla-pay-package-rages",
+    "description": "Tesla shareholders will decide soon on whether Elon Musk could have a shot at becoming the world's first trillionaire",
+    "date": "Nov. 5, 2025"
+  },
+  {
+    "title": "Fortnite Maker Epic Games and Google Say They're Settling 5-Year Legal Fight Over Android App Store",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-05/fortnite-maker-epic-games-and-google-say-theyre-settling-5-year-legal-fight-over-android-app-store",
+    "description": "Epic Games has reached a settlement with Google, potentially ending its five-year legal battle over Google's Play Store for Android apps",
+    "date": "Nov. 5, 2025"
+  },
+  {
+    "title": "Trump May Become the Face of Economic Discontent, a Year After Such Worries Helped Him Win Big",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-05/trump-may-become-the-face-of-economic-discontent-a-year-after-such-worries-helped-him-win-big",
+    "description": "Voters have sent a message to President Donald Trump that the economy doesn't feel as though it's booming — despite what he says",
+    "date": "Nov. 5, 2025"
+  },
+  {
+    "title": "Gemini AI to Transform Google Maps Into a More Conversational Experience",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-05/gemini-ai-to-transform-google-maps-into-a-more-conversational-experience",
+    "description": "Google Maps is heading in a new direction with artificial intelligence sitting in the co-pilot’s seat",
+    "date": "Nov. 5, 2025"
+  },
+  {
+    "title": "McDonald's Boosts Third Quarter Sales by Emphasizing Value but Warns Customers Remain Pressured",
+    "url": "https://www.usnews.com/news/best-states/illinois/articles/2025-11-05/snack-wraps-return-helps-boost-mcdonalds-third-quarter-sales",
+    "description": "McDonald’s sales got a lift from Snack Wraps and other value-oriented products and in the third quarter",
+    "date": "Nov. 5, 2025"
+  },
+  {
+    "title": "Cyberattack on Marks & Spencer Slices Profits by More Than a Half",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-05/cyberattack-on-marks-spencer-slices-profits-by-more-than-a-half",
+    "description": "British retailer Marks and Spencer saw its half-year profits more than halve as a result of a cyberattack that brought its online business to a grinding halt",
+    "date": "Nov. 5, 2025"
+  },
+  {
+    "title": "France Moves to Suspend Shein's Online Market Over Listings for Illegal Firearms and Sex Dolls",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-05/fast-fashion-giant-shein-faces-backlash-over-paris-store-opening-and-sales-of-childlike-sex-dolls",
+    "description": "France’s government has started a procedure to suspend access to online retail giant Shein until the company proves that its content conforms with French law",
+    "date": "Nov. 5, 2025"
+  },
+  {
+    "title": "12 Dead After Engine Fell off UPS Plane That Crashed and Exploded in Kentucky",
+    "url": "https://www.usnews.com/news/us/articles/2025-11-05/massive-fireball-erupts-as-ups-plane-crashes-at-kentucky-airport-leaving-7-dead",
+    "description": "Federal investigators say a UPS cargo plane’s left wing caught fire and its engine fell off just before a fireball crash after takeoff in Kentucky",
+    "date": "Nov. 5, 2025"
+  },
+  {
+    "title": "What to Know After the Supreme Court Arguments Over Trump's Tariffs",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-05/what-to-know-about-the-supreme-court-arguments-over-trumps-tariffs",
+    "description": "The Trump administration got a chilly reception at the Supreme Court, where a majority of the court questioned President Donald Trump’s novel use of an emergency powers law to impose worldwide tariffs",
+    "date": "Nov. 5, 2025"
+  },
+  {
+    "title": "Conservative Supreme Court Justices Appear Skeptical of Trump’s Sweeping Unilateral Tariffs",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-05/trump-tariffs-face-supreme-court-test-in-trillion-dollar-test-of-executive-power",
+    "description": "A majority of Supreme Court justices seem skeptical about President Donald Trump’s ability to unilaterally impose far-reaching tariffs, putting at risk a cornerstone of his agenda in the biggest legal test yet of his boundary-pushing presidency",
+    "date": "Nov. 5, 2025"
+  },
+  {
+    "title": "President Donald Trump, in Miami, Brags About the Economy Despite an Election-Night Rebuke",
+    "url": "https://www.usnews.com/news/us/articles/2025-11-05/trump-heads-to-miami-to-speak-about-his-economic-agenda-on-the-anniversary-of-his-election-win",
+    "description": "President Donald Trump celebrated his economic achievements on the anniversary of his election victory",
+    "date": "Nov. 5, 2025"
+  },
+  {
+    "title": "Wall Street Gains Ground Amid Steady Flow of Earnings Reports, Upbeat Economic Updates",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-04/asian-shares-sink-after-losses-for-big-tech-pull-us-stocks-lower",
+    "description": "Stocks gained ground on Wall Street following several upbeat economic updates and a steady flow of quarterly reports from U.S. companies",
+    "date": "Nov. 4, 2025"
+  },
+  {
+    "title": "Australia Adds Reddit and Kick to Social Media Platforms Banning Children Under 16",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-04/australia-adds-reddit-and-kick-to-social-media-platforms-banning-children-under-16",
+    "description": "Australia has added Reddit and Kick to its list of social media platforms that must ban children under 16 from having accounts",
+    "date": "Nov. 4, 2025"
+  },
+  {
+    "title": "At Least 7 Dead, 11 Injured in UPS Plane Crash and Explosion at Kentucky Airport",
+    "url": "https://www.usnews.com/news/us/articles/2025-11-04/authorities-responding-to-reports-of-a-plane-crash-in-kentucky",
+    "description": "At least seven people are dead and 11 injured after UPS plane crashed in Kentucky",
+    "date": "Nov. 4, 2025"
+  },
+  {
+    "title": "American Airlines Announces Cuts to Management at Its Texas Headquarters",
+    "url": "https://www.usnews.com/news/best-states/texas/articles/2025-11-04/american-airlines-announces-cuts-to-management-at-its-texas-headquarters",
+    "description": "American Airlines has announced plans to cut a small number of management and support roles, mainly at its headquarters in Fort Worth, Texas",
+    "date": "Nov. 4, 2025"
+  },
+  {
+    "title": "US Steel Details Plans to Invest $11 Billion by 2028 Across All Business Segments",
+    "url": "https://www.usnews.com/news/best-states/new-york/articles/2025-11-04/us-steel-details-plans-to-invest-11-billion-by-2028-across-all-business-segments",
+    "description": "United States Steel on Tuesday detailed an $11 billion growth plan with new owner Nippon Steel that includes modernizing the century-old steelmaker",
+    "date": "Nov. 4, 2025"
+  },
+  {
+    "title": "Appeals Judges React Skeptically to Sam Bankman-Fried's Bid to Overturn Fraud Conviction",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-04/appeals-judges-react-skeptically-to-sam-bankman-frieds-bid-to-overturn-fraud-conviction",
+    "description": "A federal appeals panel in Manhattan reacted skeptically to arguments by a lawyer for once high-flying cryptocurrency entrepreneur Sam Bankman-Fried that his fraud conviction should be overturned",
+    "date": "Nov. 4, 2025"
+  },
+  {
+    "title": "Transportation Secretary Sean Duffy Warns of 'Mass Chaos' in Skies if Shutdown Continues",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-04/transportation-secretary-sean-duffy-warns-of-mass-chaos-in-skies-if-shutdown-continues",
+    "description": "Transportation Secretary Sean Duffy predicted Tuesday that there could be chaos in the skies next week if the government shutdown drags on and air traffic controllers miss a second paycheck",
+    "date": "Nov. 4, 2025"
+  },
+  {
+    "title": "Pizza Hut's Parent Company Says It's Considering Selling the Chain",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-04/pizza-huts-parent-company-says-its-considering-selling-the-chain",
+    "description": "Pizza Hut could soon be up for sale",
+    "date": "Nov. 4, 2025"
+  },
+  {
+    "title": "European Union Welcomes Suspension of China's Rare Earth Controls",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-04/european-union-welcomes-suspension-of-chinas-rare-earth-controls",
+    "description": "The European Union says it has reached an agreement with China to stabilize the flow of rare earth materials crucial for high-tech and military products",
+    "date": "Nov. 4, 2025"
+  },
+  {
+    "title": "Novo Nordisk Hikes Metsera Bid to up to $10B in Competition With Rival Pfizer",
+    "url": "https://www.usnews.com/news/best-states/new-york/articles/2025-11-04/novo-nordisk-hikes-metsera-bid-to-up-to-10b-in-competition-with-rival-pfizer",
+    "description": "Novo Nordisk is raising the stakes in its push to outbid rival Pfizer for the development-stage drugmaker Metsera",
+    "date": "Nov. 4, 2025"
+  },
+  {
+    "title": "US Sanctions North Korean Bankers Accused of Laundering Stolen Cryptocurrency",
+    "url": "https://www.usnews.com/news/politics/articles/2025-11-04/us-sanctions-north-korean-bankers-accused-of-laundering-stolen-cryptocurrency",
+    "description": "The United States is sanctioning a group of bankers and financial firms accused of laundering money for North Korea",
+    "date": "Nov. 4, 2025"
+  },
+  {
+    "title": "Pfizer COVID-19 Vaccine Sales Tumble After Government Guidance on the Shots Narrows",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-04/pfizer-covid-19-vaccine-sales-tumble-after-government-guidance-on-the-shots-narrows",
+    "description": "The fall COVID-19 vaccine season is starting slowly for Pfizer, with U.S. sales of its Comirnaty shots sinking 25% after federal regulators narrowed recommendations on who should get them",
+    "date": "Nov. 4, 2025"
+  },
+  {
+    "title": "Big Tesla Investor Will Vote Against Musk's Massive Pay Package",
+    "url": "https://www.usnews.com/news/best-states/texas/articles/2025-11-04/big-tesla-investor-will-vote-against-musks-massive-pay-package",
+    "description": "Norway’s sovereign wealth fund, one of Tesla’s biggest investors says it will vote against a proposed compensation package that could pay CEO Elon Musk as much as $1 trillion over a decade",
+    "date": "Nov. 4, 2025"
+  },
+  {
+    "title": "Jury Is Picked in Boeing's First Civil Trial Over Payouts to Families of Ethiopia Crash Victims",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-04/boeing-may-face-its-first-civil-trial-seeking-damages-for-deadly-ethiopia-crash",
+    "description": "More than six years after a Boeing 737 Max crashed in Ethiopia, the first civil trial stemming from the disaster is set to proceed in Chicago",
+    "date": "Nov. 4, 2025"
+  },
+  {
+    "title": "Stability AI Largely Wins UK Court Battle Against Getty Images Over Copyright and Trademark",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-04/stability-ai-largely-wins-uk-court-battle-against-getty-images-over-copyright-and-trademark",
+    "description": "Stability AI has mostly prevailed against Getty Images in a British court battle over intellectual property",
+    "date": "Nov. 4, 2025"
+  },
+  {
+    "title": "EU Ministers Meet to Align Climate Goals Ahead of UN Climate Talks",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-04/european-union-tries-to-forge-new-climate-targets-before-the-cop30-summit-in-brazil-starts-next-week",
+    "description": "The European Union is working to establish new climate goals before the U.N. climate talks in Brazil starts next week",
+    "date": "Nov. 4, 2025"
+  },
+  {
+    "title": "China Blames Netherlands for Chip Supply Tensions Amid Nexperia Standoff",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-04/china-blames-netherlands-for-chip-supply-tensions-amid-nexperia-standoff",
+    "description": "China's Commerce Ministry has blamed the Netherlands for what it called “chaos” in the semiconductor supply chain",
+    "date": "Nov. 4, 2025"
+  },
+  {
+    "title": "Britain's Treasury Chief Prepares the Ground for a Tax-Hiking Budget",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-04/britains-treasury-chief-prepares-the-ground-for-a-tax-hiking-budget",
+    "description": "U.K. Treasury chief Rachel Reeves signals she will raise taxes in her upcoming budget, citing a sicker economy than previously thought",
+    "date": "Nov. 4, 2025"
+  },
+  {
+    "title": "Saudi Aramco Reports $26.9B Profit in Third Quarter, Down Slightly Over Lower Oil Prices",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-04/saudi-aramco-reports-26-9b-profit-in-third-quarter-down-slightly-over-lower-oil-prices",
+    "description": "Saudi oil giant Aramco is reporting a $26.9 billion profit in the third quarter, down slightly from last year as global energy prices remain depressed over concerns of too much oil being on the market",
+    "date": "Nov. 4, 2025"
+  },
+  {
+    "title": "Losses for Big Tech Pull Wall Street Lower",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-04/asian-shares-trade-mixed-after-ai-darlings-prop-up-wall-street",
+    "description": "Stocks fell on Wall Street, pulled down by losses in the same big tech companies that have been the main drivers of the market's rally so far this year",
+    "date": "Nov. 4, 2025"
+  },
+  {
+    "title": "Typhoon Kalmaegi Leaves at Least 26 Dead in Philippines, With Survivors Trapped on Roofs and in Cars",
+    "url": "https://www.usnews.com/news/world/articles/2025-11-03/typhoon-leaves-at-least-2-dead-traps-people-on-roofs-and-submerges-cars-in-central-philippines",
+    "description": "Philippine disaster response officials say that Typhoon Kalmaegi has left at least 26 people dead",
+    "date": "Nov. 3, 2025"
+  },
+  {
+    "title": "South Korean President Calls for Aggressive AI Spending in Budget Speech",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-03/south-korean-president-calls-for-aggressive-ai-spending-in-budget-speech",
+    "description": "South Korean President Lee Jae Myung called for tripling government spending artificial intelligence infrastructure and technology in a budget speech to the legislature",
+    "date": "Nov. 3, 2025"
+  },
+  {
+    "title": "Trump's Not Going to the Supreme Court Hearing on Tariffs. but His Treasury Secretary Will Be There",
+    "url": "https://www.usnews.com/news/politics/articles/2025-11-03/trumps-not-going-to-the-supreme-court-hearing-on-tariffs-but-his-treasury-secretary-will-be-there",
+    "description": "Treasury Secretary Scott Bessent says he plans to take a “ringside seat” at the U.S. Supreme Court on Wednesday",
+    "date": "Nov. 3, 2025"
+  },
+  {
+    "title": "Denny's to Be Acquired and Taken Private in a Deal Valued at $620 Million",
+    "url": "https://www.usnews.com/news/us/articles/2025-11-03/dennys-to-be-acquired-and-taken-private-in-a-deal-valued-at-620-million",
+    "description": "Denny’s said Monday that it’s being acquired by a group of investors who will take the breakfast chain private",
+    "date": "Nov. 3, 2025"
+  },
+  {
+    "title": "Starbucks Sells 60% Stake in China Business in $4 Billion Deal",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-03/starbucks-sells-60-stake-in-china-business-in-4-billion-deal",
+    "description": "Starbucks is forming a joint venture with Chinese investment firm Boyu Capital to operate Starbucks stores in China",
+    "date": "Nov. 3, 2025"
+  },
+  {
+    "title": "Getty's $3.7 Billion Attempt to Buy Shutterstock Faces In-Depth Investigation in the UK",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-03/gettys-3-7-billion-attempt-to-buy-shutterstock-faces-in-depth-investigation-in-the-uk",
+    "description": "Britain's antitrust watchdog is intensifying its investigation into Getty Images' plan to buy Shutterstock",
+    "date": "Nov. 3, 2025"
+  },
+  {
+    "title": "Microsoft to Ship 60,000 Nvidia AI Chips to UAE Under US-Approved Deal",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-03/microsoft-to-ship-60-000-nvidia-ai-chips-to-uae-under-us-approved-deal",
+    "description": "Microsoft has announced it will ship Nvidia's advanced AI chips to the United Arab Emirates",
+    "date": "Nov. 3, 2025"
+  },
+  {
+    "title": "OpenAI and Amazon Sign $38 Billion Deal for AI Computing Power",
+    "url": "https://www.usnews.com/news/technology/articles/2025-11-03/openai-and-amazon-sign-38b-deal-for-ai-computing-power",
+    "description": "OpenAI and Amazon have signed a $38 billion deal to run OpenAI's systems on Amazon's cloud services",
+    "date": "Nov. 3, 2025"
+  },
+  {
+    "title": "Microsoft $9.7 Billion Deal With IREN Will Give It Access to Nvidia Chips",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-03/microsoft-enters-approximately-9-7b-contract-with-iren-that-gives-it-access-to-nvidia-chips",
+    "description": "Microsoft has entered into an approximately $9.7 billion cloud services contract with artificial intelligence cloud service provider IREN that will give it access to some of Nvidia’s chips",
+    "date": "Nov. 3, 2025"
+  },
+  {
+    "title": "Tylenol, Kleenex, Band-Aid and More Put Under One Roof in $48.7 Billion Consumer Brands Deal",
+    "url": "https://www.usnews.com/news/best-states/new-jersey/articles/2025-11-03/kimberly-clark-buying-tylenol-maker-kenvue-in-48-7-billion-deal",
+    "description": "Kimberly-Clark is buying Tylenol maker Kenvue in an approximately $48.7 billion cash-and-stock deal, creating a massive consumer health goods company",
+    "date": "Nov. 3, 2025"
+  },
+  {
+    "title": "A Major Question for the Supreme Court: Will It Treat Trump as It Did Biden?",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-03/a-major-question-for-the-supreme-court-will-it-treat-trump-as-it-did-biden",
+    "description": "A major question hangs over the Supreme Court’s closely watched case on President Donald Trump’s sweeping tariffs: Will the conservative majority hold the Republican president to the same exacting standards it used to limit his Democratic predecessor, Joe Biden",
+    "date": "Nov. 3, 2025"
+  },
+  {
+    "title": "Abu Dhabi Hosts Oil Summit as OPEC+ Halts Production Hikes Planned for First Quarter of 2026",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-03/abu-dhabi-hosts-oil-summit-as-opec-halts-production-hikes-planned-for-first-quarter-of-2026",
+    "description": "Abu Dhabi has opened a major oil summit with optimism about rising energy prices",
+    "date": "Nov. 2, 2025"
+  },
+  {
+    "title": "AI Darlings Prop up Wall Street as Most Other Stocks Fall",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-02/shares-in-asia-advance-led-by-tech-stocks-after-another-week-of-gains-for-wall-st",
+    "description": "Nvidia and other AI superstar stocks propped up Wall Street",
+    "date": "Nov. 2, 2025"
+  },
+  {
+    "title": "Trump Says He 'Won't Be Extorted' by Democrats, Shuns Negotiations as Shutdown Drags On",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-02/shutdown-stalemate-set-to-drag-into-sixth-week-as-trump-pushes-republicans-to-change-senate-rules",
+    "description": "President Donald Trump says he “won’t be extorted” by Democrats to reopen the government, making clear that he has no plans to negotiate as the government shutdown will soon enter its sixth week",
+    "date": "Nov. 2, 2025"
+  },
+  {
+    "title": "Flight Delays Persist as Government Shutdown Leads to Air Traffic Controller Shortages",
+    "url": "https://www.usnews.com/news/technology/articles/2025-11-02/flight-delays-persist-as-government-shutdown-leads-to-air-traffic-controller-shortages",
+    "description": "Flight delays are continuing at U.S. airports amid air traffic controller shortages as the government shutdown enters its second month",
+    "date": "Nov. 2, 2025"
+  },
+  {
+    "title": "AI Song Generator Udio Offers Brief Window for Downloads After Universal Settlement Upsets Users",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-02/ai-song-generator-udio-offers-brief-window-for-downloads-after-universal-settlement-upsets-users",
+    "description": "Udio, an AI song generation platform, has announced a 48-hour window starting Monday for users to download their songs",
+    "date": "Nov. 2, 2025"
+  },
+  {
+    "title": "Who Is Zico Kolter? A Professor Leads OpenAI Safety Panel With Power to Halt Unsafe AI Releases",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-02/who-is-zico-kolter-a-professor-leads-openai-safety-panel-with-power-to-halt-unsafe-ai-releases",
+    "description": "Zico Kolter leads a panel that can stop OpenAI from releasing new AI systems if they're deemed unsafe",
+    "date": "Nov. 2, 2025"
+  },
+  {
+    "title": "East Wing Ballroom Donations by Corporate Owners Create Awkward Moments for News Outlets",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-02/east-wing-ballroom-donations-by-corporate-owners-create-awkward-moments-for-news-outlets",
+    "description": "President Donald Trump's razing of the White House's East Wing to build a ballroom has meant for some awkward moments for news outlets",
+    "date": "Nov. 2, 2025"
+  },
+  {
+    "title": "Tariffs Are Trump's Favorite Foreign Policy Tool. the Supreme Court Could Change How He Uses Them",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-02/tariffs-are-trumps-favorite-foreign-policy-tool-the-supreme-court-could-change-how-he-uses-them",
+    "description": "For President Donald Trump, tariffs — or the threat of them — can bend nations to his will",
+    "date": "Nov. 2, 2025"
+  },
+  {
+    "title": "Italian Police Seize $1.5B in Assets From Campari's Controlling Shareholder Amid Tax Fraud Probe",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-01/italian-police-seize-1-5b-in-assets-from-camparis-controlling-shareholder-amid-tax-fraud-probe",
+    "description": "Italian tax police have seized assets worth 1.29 billion euros from a Luxembourg-based holding company's shares in Campari Group",
+    "date": "Nov. 1, 2025"
+  },
+  {
+    "title": "Carbon Capture Pipelines Have Struggled to Advance. A Project in Nebraska Found Success",
+    "url": "https://www.usnews.com/news/us/articles/2025-11-01/carbon-capture-pipelines-have-struggled-to-advance-a-project-in-nebraska-found-success",
+    "description": "A large-scale carbon capture pipeline began operating in the Midwest in September, succeeding where others have so far fallen short",
+    "date": "Nov. 1, 2025"
+  },
+  {
+    "title": "Canadian PM Carney Says He Told Ontario's Premier Not to Run Anti-Tariff Ad That Upset Trump",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-01/canadian-prime-minister-says-he-told-ontarios-premier-not-to-run-anti-tariff-ad-that-upset-trump",
+    "description": "Canadian Prime Minister Mark Carney said he told Ontario's premier not to run an anti-tariff ad that angered U.S. President Donald Trump",
+    "date": "Nov. 1, 2025"
+  },
+  {
+    "title": "Furloughed Federal Workers Face Delays Getting Unemployment Pay During Shutdown",
+    "url": "https://www.usnews.com/news/best-states/texas/articles/2025-11-01/furloughed-federal-workers-face-delays-getting-unemployment-pay-during-shutdown",
+    "description": "Thousands of furloughed federal workers are trying to navigate the unemployment system, in a sharp increase that is still a fraction of the 670,000 furloughed during the shutdown",
+    "date": "Nov. 1, 2025"
+  },
+  {
+    "title": "Berkshire Hathaway's Profits Rise 17% as Warren Buffett Prepares to Step Down as CEO",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-01/berkshire-hathaways-profits-rise-17-as-warren-buffett-prepares-to-step-down-as-ceo",
+    "description": "Warren Buffett’s company’s profits improved 17% thanks to a relatively mild hurricane season and more paper investment gains this year as Berkshire Hathaway continues to prepare for the legendary 95-year-old investor to relinquish the CEO title in January",
+    "date": "Nov. 1, 2025"
+  },
+  {
+    "title": "Uncertainty Over Federal Food Aid Deepens as the Shutdown Fight Reaches a Crisis Point",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-01/uncertainty-over-federal-food-aid-deepens-as-the-shutdown-fight-reaches-a-crisis-point",
+    "description": "The twin crises at the heart of the government shutdown fight in Washington are coming to a head",
+    "date": "Nov. 1, 2025"
+  },
+  {
+    "title": "A Vermont Cycling Apparel Company Is Trying to Survive Trump's Tariffs. Will the Supreme Court Help?",
+    "url": "https://www.usnews.com/news/business/articles/2025-11-01/a-vermont-cycling-apparel-company-is-trying-to-survive-trumps-tariffs-will-the-supreme-court-help",
+    "description": "A small company in Vermont that specializes in women's cycling apparel is at the center of the fight over President Donald Trump's contentious tariff policy",
+    "date": "Nov. 1, 2025"
+  },
+  {
+    "title": "South Korea Calls for Greater Chinese Efforts to Bring North Korea Back to Talks",
+    "url": "https://www.usnews.com/news/business/articles/2025-10-31/apec-summit-to-close-in-south-korea-after-trump-xi-agreed-on-trade-truce",
+    "description": "South Korean President Lee Jae Myung has asked Chinese President Xi Jinping to make greater efforts to convince North Korea to return to talks",
+    "date": "Oct. 31, 2025"
+  },
+  {
+    "title": "Trump Efforts to Help US Coal Undercut by Export Drop During Trade War",
+    "url": "https://www.usnews.com/news/best-states/utah/articles/2025-10-31/trump-efforts-to-help-us-coal-undercut-by-export-drop-during-trade-war",
+    "description": "President Donald Trump’s efforts to help the U.S. coal industry at home are being offset by falling sales abroad",
+    "date": "Oct. 31, 2025"
+  },
+  {
+    "title": "Pfizer Sues to Stop Rival Bid for Drugmaker Metsera by Denmark's Novo Nordisk",
+    "url": "https://www.usnews.com/news/business/articles/2025-10-31/pfizer-sues-to-stop-rival-bid-for-drugmaker-metsera-by-denmarks-novo-nordisk",
+    "description": "Pfizer is suing over some unsolicited competition in its nearly $5 billion bid to buy the drugmaker Metsera",
+    "date": "Oct. 31, 2025"
+  },
+  {
+    "title": "Air Traffic Controller Shortages Lead to Broader US Flight Delays as Shutdown Nears One-Month Mark",
+    "url": "https://www.usnews.com/news/us/articles/2025-10-31/air-traffic-controller-shortages-lead-to-broader-us-flight-delays-as-shutdown-nears-one-month-mark",
+    "description": "Continued staffing shortages in air traffic control facilities are causing delays at airports as the government shutdown nears the one-month mark",
+    "date": "Oct. 31, 2025"
+  },
+  {
+    "title": "How Hunger Relief Groups Say You Can Help Feed Your Neighbors During the Shutdown and Beyond",
+    "url": "https://www.usnews.com/news/us/articles/2025-10-31/how-hunger-relief-groups-say-you-can-help-feed-your-neighbors-if-the-shutdown-pauses-food-aid",
+    "description": "Many people might be wondering how they can help their neighbors put food on the table with federal food aid set to be frozen on Nov. 1",
+    "date": "Oct. 31, 2025"
+  },
+  {
+    "title": "Disney Content Has Gone Dark on YouTube TV. Here's What Customers Should Know",
+    "url": "https://www.usnews.com/news/business/articles/2025-10-31/disney-content-has-gone-dark-on-youtube-tv-heres-what-customers-should-know",
+    "description": "Disney content has gone dark on YouTube TV, leaving subscribers of the Google-owned live streaming platform without access to major networks like ESPN and ABC",
+    "date": "Oct. 31, 2025"
+  },
+  {
+    "title": "Billie Eilish to Billionaires: 'No Hate, but Give Your Money Away, Shorties'",
+    "url": "https://www.usnews.com/news/business/articles/2025-10-31/billie-eilish-to-billionaires-no-hate-but-give-your-money-away-shorties",
+    "description": "Grammy and Oscar winner Billie Eilish called on billionaires to give away more of their wealth",
+    "date": "Oct. 31, 2025"
+  },
+  {
+    "title": "Republican Leaders Reject Trump's Demands to Scrap the Senate Filibuster to End the Shutdown",
+    "url": "https://www.usnews.com/news/politics/articles/2025-10-31/trump-says-senate-should-scrap-the-filibuster-to-end-the-shutdown-an-idea-opposed-by-republicans",
+    "description": "President Donald Trump is calling on the Senate to scrap the filibuster",
+    "date": "Oct. 31, 2025"
+  },
+  {
+    "title": "Americans Staying Put: US Home Turnover Rate at Lowest Level in Decades as Housing Slump Drags On",
+    "url": "https://www.usnews.com/news/business/articles/2025-10-31/americans-staying-put-us-home-turnover-rate-at-lowest-level-in-decades-as-housing-slump-drags-on",
+    "description": "The number of U.S. homes that typically changes hands as people relocate for work, retire or trade-up for more living space hasn’t been this low in nearly 30 years",
+    "date": "Oct. 31, 2025"
+  }
+]
